@@ -1,0 +1,53 @@
+ESPAÑOL
+
+Primer proyecto, práctica de CSS y HTML, para Rolling Code School
+
+Temática: Página de streaming
+
+Desarrollo: Creamos una página de streaming dónde el usuario para poder acceder al contenido ilimitado debe registrarse y elegir un plan de pago mensual. Entre las categorías de contenido tenemos desde peliculas hasta transmisión en vivo.
+
+El proyecto está realizado en un 90% con puro html y css, es un proyecto "vanilla". Únicamente en la página de Error 404 y Películas se utilizo la ayuda de frameworks (bootstrap5)
+
+Las páginas de categorías desarrolladas son: Peliculas - Categorias: Acción e Infantiles - Streaming.
+
+El responsive esta realizado con media query y elegimos, además del dispositivo en pantalla grande, un iPad mini y un iPhone 12 pro.
+
+El trabajo fue realizado en grupo. Mis tareas fueron:
+
+*Desarrollo completo del navbar
+*Inicio completo
+*Subcripción y formulario de registro
+*Login
+*Página About us, de presentación del equipo de trabajo
+*Peliculas
+*Desarrollo de categorías (Acción e Infantiles, con las dos primeras películas desarrolladas)
+*Streaming
+
+Utilicé CSS para dar estilos, animaciones en el navbar y en el fondo, glassmorphism para las tarjetas, hice uso de pseudo-elementos y pseudo-clases para algunos detalles de la web. En el registro la ventana modal está realizada con puro CSS.
+
+ENGLISH
+
+First project, CSS and HTML practice, for Rolling Code School
+
+Theme: Streaming Page
+
+Development: We created a streaming page where the user, in order to access unlimited content, must register and choose a monthly payment plan. Among the content categories we have from movies to live streaming.
+
+The project is 90% made with pure html and css, it is a "vanilla" project. Only in the 404 Error and Movies page the help of frameworks (bootstrap5) was used
+
+The developed category pages are: Movies - Categories: Action and Children - Streaming.
+
+The responsive is made with media query and we chose, in addition to the large screen device, an iPad mini and an iPhone 12 pro.
+
+The work was done in groups. My tasks were:
+
+*Full development of the navbar
+*Full start
+*Subscription and registration form
+*Login
+*About us page, presentation of the work team
+*Films
+*Development of categories (Action and Children, with the first two films developed)
+*Streaming
+
+I used CSS to give styles, animations in the navbar and in the background, glassmorphism for the cards, I used pseudo-elements and pseudo-classes for some details of the web. In the registry the modal window is made with pure CSS.
